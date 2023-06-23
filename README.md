@@ -12,3 +12,4 @@
 **Publicació de les visualitzacions:**
 
 Les visualitzacions també es poden visualitzar a la mateixa plataforma de _Tableau_ on s'han desenvolupat.
+https://public.tableau.com/views/Airpollution_16875564285680/Airpollution?:language=es-ES&:display_count=n&:origin=viz_share_link
