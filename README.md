@@ -6,8 +6,19 @@
 
 **Aquest paquet està format pels següents arxius:**
 
-  
+- _Datasets amb les dades originals:_
 
+  - `Original_datasets/IND_and_Nep_AQI_Dataset.csv`: dataset original amb les dades de de contaminació de l'aire de la India i Nepal.
+  - `Original_datasets/Total Emissions Per Country (2000-2020).csv`: dataset original amb les dades de les emissions de diferents elements per païssos entre l'any 2000 i 2020.
+
+- _Datasets amb les dades modificades:_
+
+  - `Modified_datasets/IND_and_Nep_AQI_Dataset_modified.csv`: dataset modificat amb el codi proporcionat de les dades de de contaminació de l'aire de la India i Nepal.
+  - `Original_datasets/Total_Emissions_Per_Country_(2000-2020)_modified.csv`: dataset modificat amb el codi proporcionat de les dades de les emissions de diferents elements per païssos entre l'any 2000 i 2020.
+  
+- _Codi:_
+
+  - `Code.py`: codi _pyhton_ que cal executar sobre els datasets originals per obtenir les dades en el format adequat per poder realitzar les visualitzacions.
 
 **Publicació de les visualitzacions:**
 
