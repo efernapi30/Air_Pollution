@@ -20,6 +20,12 @@
 
   - `Code.py`: codi _pyhton_ que cal executar sobre els datasets originals per obtenir les dades en el format adequat per poder realitzar les visualitzacions.
 
+- _Representacions visuals de les dades:_
+
+  - `Visualizations/Air_pollution_India_Nepal.png`: Visualització de
+  - `Visualizations/Total_emissions.png`: Visualització del total de les emissions per les diferents regions, païssos, items entre els anys 2000 i 2020.
+  - `Visualizations/Map_total_emissions.png`: Visualització del mapa mundial amb el total de les emissions pels diferents païssos entre els anys 2000 i 2020.
+
 **Publicació de les visualitzacions:**
 
 Les visualitzacions també es poden visualitzar a la mateixa plataforma de _Tableau_ on s'han desenvolupat.
